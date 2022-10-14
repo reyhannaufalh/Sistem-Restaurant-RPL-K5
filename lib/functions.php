@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "uas_pemweb");
+$conn = mysqli_connect("localhost", "root", "", "rpl_k5");
 $timestamp = date("Y-m-d H:i:s");
 
 function query($query)
